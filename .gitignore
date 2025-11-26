@@ -1,0 +1,9 @@
+# Ignore Executables
+a
+a.out
+*.exe
+*.o
+
+# Ignore files System/Editor
+.DS_Store
+.vscode/
